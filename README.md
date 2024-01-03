@@ -1,4 +1,4 @@
-### <div align="center">I'm lhmd, a student in ZJU 👨‍💻 </div>  
+### <div align="center">I'm Weijie Wang, a student in ZJU 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Github Page](https://lhmd.github.io/)  
