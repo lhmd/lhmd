@@ -105,7 +105,7 @@
             </a></div>
 <br />
 
-![](https://raw.githubusercontent.com/lhmd/lhmd/main/assets/github-contribution-grid-snake.svg)
+<!-- ![](https://raw.githubusercontent.com/lhmd/lhmd/main/assets/github-contribution-grid-snake.svg) -->
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
