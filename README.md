@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Github Page](https://lhmd.github.io/)  
   
 
-- 🌱 I’m currently learning C++ and CV  
+- 🌱 I’m currently learning Computer Vision
   
 
 - ❓ Ask me about anything related to anything  
