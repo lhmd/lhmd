@@ -1,4 +1,8 @@
 ### <div align="center">I'm Weijie Wang, a student in ZJU 👨‍💻 </div>  
+
+[![wakatime](https://wakatime.com/badge/user/da59c3e0-fee0-4244-95ae-44d9f28dcea2.svg)](https://wakatime.com/@da59c3e0-fee0-4244-95ae-44d9f28dcea2)
+[![github](https://img.shields.io/github/followers/lhmd?logo=github&style=plastic)](https://github.com/lhmd?tab=followers)
+[![twitter](https://img.shields.io/twitter/follow/wjwang2003?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/wjwang2003)
   
 
 - 🔭 I’m currently working on [Github Page](https://lhmd.github.io/)  
