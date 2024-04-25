@@ -12,9 +12,9 @@
 
 
 ### Glad to see you here!  
-I am a junior student at Zhejiang University, majoring in Software Engineering, minor in Advanced Honor Class of Engineering Education(ACEE) at Chu Kochen Honors College, and will graduate from Zhejiang University with a B.S. in Engineering in 2025!
+I am a junior student at Zhejiang University, majoring in Software Engineering, minor in Advanced Honor Class of Engineering Education(ACEE) at Chu Kochen Honors College. 
 
-My research interest is computer vision and I have been working as a research assistant in State Key Laboratory of Computer-aided Design & Computer Graphics at Zhejiang University since September 2022 under the supervision of Prof. Xiaowei Zhou and Sida Peng.  
+My research interest is computer vision and I have been working as a research assistant in State Key Laboratory of Computer-aided Design & Computer Graphics at Zhejiang University.  
   
 
 <br/>  
