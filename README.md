@@ -5,7 +5,7 @@
 [![twitter](https://img.shields.io/twitter/follow/wjwang2003?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/wjwang2003)
   
 
-- 🔭 I’m currently working on [Github Page](https://lhmd.github.io/)  
+- 🔭 Welcome to visit my [academic web page](https://lhmd.top)! 
   
 
 - 🌱 I’m currently learning Computer Vision
@@ -87,7 +87,7 @@
 
 
 ## Recent Blog Posts  
-[My blog](https://lhmd.github.io/)  
+[My blog](https://blog.lhmd.top/)  
   
 
 <br/>  
