@@ -21,7 +21,6 @@ My research interest is computer vision and I have been working as a research as
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 Welcome to visit my [academic web page](https://lhmd.top) !  
   
@@ -33,16 +32,6 @@ My research interest is computer vision and I have been working as a research as
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times.   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="./assets/1.png" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
