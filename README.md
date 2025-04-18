@@ -23,7 +23,7 @@ I am a senior student at Zhejiang University, majoring in Software Engineering, 
 - 🔭 Welcome to visit my [academic web page](https://lhmd.top) !  
   
 
-- 🌱 I’m currently learning Computer Vision, specifically human motion generation.  
+- 🌱 I'm now interested in Efficient AI, especially efficient 3d large models.
   
 
 - ❓ Ask me about anything related to anything.  
