@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I am a senior student at Zhejiang University, majoring in Software Engineering, minor in Advanced Honor Class of Engineering Education(ACEE) at Chu Kochen Honors College. 
+I am a first-year Ph.D. student in Computer Science at College of Computer Science and Technology, Zhejiang University.
   
 
 <br/>  
