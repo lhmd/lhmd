@@ -13,9 +13,16 @@
 
 ### Glad to see you here!  
 I am a first-year Ph.D. student in Computer Science at College of Computer Science and Technology, Zhejiang University.
-  
 
-<br/>  
+Homepage: https://lhmd.top
+
+Research Interests:
+
+- Feed-Forward Reconstruction: [ZPressor](https://lhmd.top/zpressor), [PM-Loss](https://aim-uofa.github.io/PMLoss), [VolSplat](https://lhmd.top/volsplat)
+- Dynamic Reconstruction: [Street Gaussians](https://zju3dv.github.io/street_gaussians), [DriveGen3D](https://arxiv.org/abs/2510.15264)
+- Interactive Generation: [WonderTurbo](https://wonderturbo.github.io/)
+
+<!-- <br/>  
 
 
 ## Rapidfire  
@@ -78,15 +85,15 @@ I am a first-year Ph.D. student in Computer Science at College of Computer Scien
 
   
 
-<br/>  
+<br/>    -->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=lhmd&&style=flat-square)  
   
 
-<br/>  
+<!-- <br/>
 
 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
