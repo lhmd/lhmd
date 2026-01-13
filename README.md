@@ -18,8 +18,8 @@ Homepage: https://lhmd.top
 
 Research Interests:
 
-- Feed-Forward Reconstruction: [ZPressor](https://lhmd.top/zpressor), [PM-Loss](https://aim-uofa.github.io/PMLoss), [VolSplat](https://lhmd.top/volsplat)
-- Dynamic Reconstruction: [Street Gaussians](https://zju3dv.github.io/street_gaussians), [DriveGen3D](https://arxiv.org/abs/2510.15264)
+- Feed-Forward Reconstruction: [ZPressor](https://lhmd.top/zpressor/), [PM-Loss](https://aim-uofa.github.io/PMLoss/), [VolSplat](https://lhmd.top/volsplat/)
+- Dynamic Reconstruction: [Street Gaussians](https://zju3dv.github.io/street_gaussians/), [DriveGen3D](https://lhmd.top/drivegen3d/)
 - Interactive Generation: [WonderTurbo](https://wonderturbo.github.io/)
 
 <!-- <br/>  
