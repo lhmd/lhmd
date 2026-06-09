@@ -19,7 +19,7 @@ Homepage: https://lhmd.top
 Research Interests:
 
 - Feed-Forward 3D Reconstruction: [TriSplat](https://lhmd.top/trisplat/), [VolSplat](https://lhmd.top/volsplat/), [ZPressor](https://lhmd.top/zpressor/), [PM-Loss](https://aim-uofa.github.io/PMLoss/), [Feed-Forward 3D Survey](https://ff3d-survey.github.io/)
-- 3D-Consistent World Generation: [World-R1](https://aka.ms/world-r1), [WonderTurbo](https://wonderturbo.github.io/), [DriveGen3D](https://lhmd.top/drivegen3d/)
+- 3D-Consistent World Generation: [Latent Spatial Memory](https://aka.ms/latent-spatial-memory), [World-R1](https://aka.ms/world-r1), [WonderTurbo](https://wonderturbo.github.io/), [DriveGen3D](https://lhmd.top/drivegen3d/)
 - Spatial and Multimodal Reasoning: [CoV](https://ziplab.co/CoV/), [MV-RoboBench](https://github.com/microsoft/MV-RoboBench), [ReVisual-R1](https://github.com/CSfufu/Revisual-R1), [DDP](https://hhx-jpg.github.io/ddp/)
 
 
