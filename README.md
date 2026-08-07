@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I am a first-year Ph.D. student in Computer Science at College of Computer Science and Technology, Zhejiang University.
+I am a Ph.D. student in Computer Science at College of Computer Science and Technology, Zhejiang University.
 
 Homepage: https://lhmd.top
 
