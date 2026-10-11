@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="title desc">
+  <title id="title">Weijie Wang · 王伟杰</title>
+  <desc id="desc">Efficient 3D models, world models, and spatial reasoning. An isometric field of reconstructed voxels.</desc>
+  <rect width="1200" height="320" rx="8" fill="#101820"/>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" fill="#98b0c1" font-size="14" letter-spacing="1.8">
+    <text x="42" y="42">LHMD / RESEARCH</text>
+    <text x="1158" y="42" text-anchor="end">3D → WORLD MODELS</text>
+  </g>
+  <rect x="42" y="69" width="32" height="3" fill="#c2f27b"/>
+  <text x="39" y="155" font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="78" font-weight="600" letter-spacing="-3" fill="#edf3f6">Weijie Wang<tspan dx="19" font-family="'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="28" font-weight="400" letter-spacing="1" fill="#98b0c1">王伟杰</tspan>
+  </text>
+  <g font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="24" fill="#98b0c1">
+    <text x="43" y="210">Efficient 3D models.</text>
+    <text x="43" y="244">Spatially consistent worlds.</text>
+  </g>
+  <defs>
+  <clipPath id="field">
+  <rect x="680" y="60" width="480" height="205"/>
+  </clipPath>
+  </defs>
+  <g clip-path="url(#field)">
+  <g fill="none" stroke-linejoin="round">
+  <path d="M913 91L640 210" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M913 91L1186 210" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M952 108L679 227" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M874 108L1147 227" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M991 125L718 244" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M835 125L1108 244" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M1030 142L757 261" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M796 142L1069 261" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M1069 159L796 278" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M757 159L1030 278" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M1108 176L835 295" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M718 176L991 295" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M1147 193L874 312" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M679 193L952 312" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M1186 210L913 329" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M640 210L913 329" stroke="#263b49" stroke-opacity="0.9" stroke-width="1"/>
+  <path d="M874 88.5L913 95.5" stroke="#8acaf0" stroke-opacity="0.42" stroke-width="1"/>
+  <path d="M757 120L913 95.5" stroke="#8acaf0" stroke-opacity="0.42" stroke-width="1"/>
+  <path d="M1108 117.5L913 95.5" stroke="#8acaf0" stroke-opacity="0.42" stroke-width="1"/>
+  <path d="M913 159L952 176" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M913 159L874 176" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M913 159L913 120" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M913 154L874 137" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M913 154L952 137" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M913 154L913 193" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M952 176L913 193" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M952 176L952 137" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M874 176L913 193" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M874 176L874 137" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M913 120L952 137" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M913 120L874 137" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M952 176L991 193" stroke="#8acaf0" stroke-opacity="0.7" stroke-width="1.35"/>
+  <path d="M952 176L913 193" stroke="#8acaf0" stroke-opacity="0.7" stroke-width="1.35"/>
+  <path d="M952 176L952 137" stroke="#8acaf0" stroke-opacity="0.7" stroke-width="1.35"/>
+  <path d="M952 171L913 154" stroke="#8acaf0" stroke-opacity="0.7" stroke-width="1.35"/>
+  <path d="M952 171L991 154" stroke="#8acaf0" stroke-opacity="0.7" stroke-width="1.35"/>
+  <path d="M952 171L952 210" stroke="#8acaf0" stroke-opacity="0.7" stroke-width="1.35"/>
+  <path d="M991 193L952 210" stroke="#8acaf0" stroke-opacity="0.7" stroke-width="1.35"/>
+  <path d="M991 193L991 154" stroke="#8acaf0" stroke-opacity="0.7" stroke-width="1.35"/>
+  <path d="M913 193L952 210" stroke="#8acaf0" stroke-opacity="0.7" stroke-width="1.35"/>
+  <path d="M913 193L913 154" stroke="#8acaf0" stroke-opacity="0.7" stroke-width="1.35"/>
+  <path d="M952 137L991 154" stroke="#8acaf0" stroke-opacity="0.7" stroke-width="1.35"/>
+  <path d="M952 137L913 154" stroke="#8acaf0" stroke-opacity="0.7" stroke-width="1.35"/>
+  <path d="M913 193L952 210" stroke="#8acaf0" stroke-opacity="0.8" stroke-width="1.35"/>
+  <path d="M913 193L874 210" stroke="#8acaf0" stroke-opacity="0.8" stroke-width="1.35"/>
+  <path d="M913 193L913 154" stroke="#8acaf0" stroke-opacity="0.8" stroke-width="1.35"/>
+  <path d="M913 188L874 171" stroke="#8acaf0" stroke-opacity="0.8" stroke-width="1.35"/>
+  <path d="M913 188L952 171" stroke="#8acaf0" stroke-opacity="0.8" stroke-width="1.35"/>
+  <path d="M913 188L913 227" stroke="#8acaf0" stroke-opacity="0.8" stroke-width="1.35"/>
+  <path d="M952 210L913 227" stroke="#8acaf0" stroke-opacity="0.8" stroke-width="1.35"/>
+  <path d="M952 210L952 171" stroke="#8acaf0" stroke-opacity="0.8" stroke-width="1.35"/>
+  <path d="M874 210L913 227" stroke="#8acaf0" stroke-opacity="0.8" stroke-width="1.35"/>
+  <path d="M874 210L874 171" stroke="#8acaf0" stroke-opacity="0.8" stroke-width="1.35"/>
+  <path d="M913 154L952 171" stroke="#8acaf0" stroke-opacity="0.8" stroke-width="1.35"/>
+  <path d="M913 154L874 171" stroke="#8acaf0" stroke-opacity="0.8" stroke-width="1.35"/>
+  <path d="M952 210L991 227" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M952 210L913 227" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M952 210L952 171" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M952 205L913 188" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M952 205L991 188" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M952 205L952 244" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M991 227L952 244" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M991 227L991 188" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M913 227L952 244" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M913 227L913 188" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M952 171L991 188" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M952 171L913 188" stroke="#8acaf0" stroke-opacity="0.45" stroke-width="1.35"/>
+  <path d="M913 154L952 171" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 154L874 171" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 154L913 115" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 149L874 132" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 149L952 132" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 149L913 188" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M952 171L913 188" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M952 171L952 132" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M874 171L913 188" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M874 171L874 132" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 115L952 132" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 115L874 132" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M835 193L874 210" stroke="#8acaf0" stroke-opacity="0.5" stroke-width="1.35"/>
+  <path d="M835 193L796 210" stroke="#8acaf0" stroke-opacity="0.5" stroke-width="1.35"/>
+  <path d="M835 193L835 154" stroke="#8acaf0" stroke-opacity="0.5" stroke-width="1.35"/>
+  <path d="M835 188L796 171" stroke="#8acaf0" stroke-opacity="0.5" stroke-width="1.35"/>
+  <path d="M835 188L874 171" stroke="#8acaf0" stroke-opacity="0.5" stroke-width="1.35"/>
+  <path d="M835 188L835 227" stroke="#8acaf0" stroke-opacity="0.5" stroke-width="1.35"/>
+  <path d="M874 210L835 227" stroke="#8acaf0" stroke-opacity="0.5" stroke-width="1.35"/>
+  <path d="M874 210L874 171" stroke="#8acaf0" stroke-opacity="0.5" stroke-width="1.35"/>
+  <path d="M796 210L835 227" stroke="#8acaf0" stroke-opacity="0.5" stroke-width="1.35"/>
+  <path d="M796 210L796 171" stroke="#8acaf0" stroke-opacity="0.5" stroke-width="1.35"/>
+  <path d="M835 154L874 171" stroke="#8acaf0" stroke-opacity="0.5" stroke-width="1.35"/>
+  <path d="M835 154L796 171" stroke="#8acaf0" stroke-opacity="0.5" stroke-width="1.35"/>
+  <path d="M913 227L952 244" stroke="#8acaf0" stroke-opacity="0.65" stroke-width="1.35"/>
+  <path d="M913 227L874 244" stroke="#8acaf0" stroke-opacity="0.65" stroke-width="1.35"/>
+  <path d="M913 227L913 188" stroke="#8acaf0" stroke-opacity="0.65" stroke-width="1.35"/>
+  <path d="M913 222L874 205" stroke="#8acaf0" stroke-opacity="0.65" stroke-width="1.35"/>
+  <path d="M913 222L952 205" stroke="#8acaf0" stroke-opacity="0.65" stroke-width="1.35"/>
+  <path d="M913 222L913 261" stroke="#8acaf0" stroke-opacity="0.65" stroke-width="1.35"/>
+  <path d="M952 244L913 261" stroke="#8acaf0" stroke-opacity="0.65" stroke-width="1.35"/>
+  <path d="M952 244L952 205" stroke="#8acaf0" stroke-opacity="0.65" stroke-width="1.35"/>
+  <path d="M874 244L913 261" stroke="#8acaf0" stroke-opacity="0.65" stroke-width="1.35"/>
+  <path d="M874 244L874 205" stroke="#8acaf0" stroke-opacity="0.65" stroke-width="1.35"/>
+  <path d="M913 188L952 205" stroke="#8acaf0" stroke-opacity="0.65" stroke-width="1.35"/>
+  <path d="M913 188L874 205" stroke="#8acaf0" stroke-opacity="0.65" stroke-width="1.35"/>
+  <path d="M913 115L952 132" stroke="#c2f27b" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 115L874 132" stroke="#c2f27b" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 115L913 76" stroke="#c2f27b" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 110L874 93" stroke="#c2f27b" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 110L952 93" stroke="#c2f27b" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 110L913 149" stroke="#c2f27b" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M952 132L913 149" stroke="#c2f27b" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M952 132L952 93" stroke="#c2f27b" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M874 132L913 149" stroke="#c2f27b" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M874 132L874 93" stroke="#c2f27b" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 76L952 93" stroke="#c2f27b" stroke-opacity="1" stroke-width="1.35"/>
+  <path d="M913 76L874 93" stroke="#c2f27b" stroke-opacity="1" stroke-width="1.35"/>
+  </g>
+  <circle cx="874" cy="88.5" r="3" fill="#8acaf0"/>
+  <circle cx="757" cy="120" r="3" fill="#8acaf0"/>
+  <circle cx="1108" cy="117.5" r="3" fill="#8acaf0"/>
+  </g>
+  <path d="M42 277H1158" stroke="#263b49"/>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.3" fill="#98b0c1">
+    <text x="42" y="300">RECONSTRUCT / GENERATE / REASON</text>
+    <text x="1158" y="300" text-anchor="end">ZHEJIANG UNIVERSITY · BYTEDANCE SEED</text>
+  </g>
+</svg>

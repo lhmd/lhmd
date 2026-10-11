@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 336" width="300" height="336" role="img" aria-labelledby="title desc">
+<title id="title">Generate · World-R1</title>
+<desc id="desc">Spatially consistent video world generation</desc>
+<rect width="300" height="336" rx="8" fill="#101820"/>
+<text x="23" y="34" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2" fill="#98b0c1">02 / RESEARCH</text>
+<text x="21" y="81" font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-weight="600" font-size="34" letter-spacing="-1" fill="#edf3f6">Generate</text>
+<rect x="116" y="114" width="137" height="85" rx="3" fill="#101820" stroke="#8acaf0" stroke-opacity="0.35" stroke-width="1.5"/>
+<path d="M128 182h113 M132 190l45-33l52 33" fill="none" stroke="#263b49" stroke-opacity="0.35" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M183 137l18.919999999999998 11.0v22l-18.919999999999998 11.0l-18.919999999999998 -11.0v-22Z M164.08 148.0l18.919999999999998 11.0l18.919999999999998 -11.0 M183 159v22" fill="none" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="80" y="138" width="137" height="85" rx="3" fill="#101820" stroke="#8acaf0" stroke-opacity="0.6" stroke-width="1.5"/>
+<path d="M92 206h113 M96 214l45-33l52 33" fill="none" stroke="#263b49" stroke-opacity="0.6" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M147 161l18.919999999999998 11.0v22l-18.919999999999998 11.0l-18.919999999999998 -11.0v-22Z M128.08 172.0l18.919999999999998 11.0l18.919999999999998 -11.0 M147 183v22" fill="none" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="44" y="162" width="137" height="85" rx="3" fill="#101820" stroke="#8acaf0" stroke-opacity="1" stroke-width="1.5"/>
+<path d="M56 230h113 M60 238l45-33l52 33" fill="none" stroke="#263b49" stroke-opacity="1" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M111 185l18.919999999999998 11.0v22l-18.919999999999998 11.0l-18.919999999999998 -11.0v-22Z M92.08 196.0l18.919999999999998 11.0l18.919999999999998 -11.0 M111 207v22" fill="none" stroke="#c2f27b" stroke-opacity="1" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M211 185v42h-16 M202 219l-8 8l8 8" fill="none" stroke="#c2f27b" stroke-opacity="0.9" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M23 270H277" stroke="#263b49"/>
+<text x="22" y="314" font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="500" fill="#edf3f6">World-R1</text>
+<path d="M255 310l18-18 M257 292h16v16" fill="none" stroke="#c2f27b" stroke-width="2"/>
+</svg>

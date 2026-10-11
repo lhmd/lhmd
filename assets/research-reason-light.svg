@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 336" width="300" height="336" role="img" aria-labelledby="title desc">
+<title id="title">Reason · CoV</title>
+<desc id="desc">Multi-view spatial reasoning</desc>
+<rect width="300" height="336" rx="8" fill="#edf2f4"/>
+<text x="23" y="34" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2" fill="#496576">03 / RESEARCH</text>
+<text x="21" y="81" font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-weight="600" font-size="34" letter-spacing="-1" fill="#162c3b">Reason</text>
+<ellipse cx="150" cy="186" rx="101" ry="38" fill="none" stroke="#cfdee5" stroke-width="1.5" stroke-dasharray="4 6" transform="rotate(-20 150 186)"/>
+<path d="M150 140l31.82 18.5v37l-31.82 18.5l-31.82 -18.5v-37Z M118.18 158.5l31.82 18.5l31.82 -18.5 M150 177v37" fill="none" stroke="#296c97" stroke-opacity="1" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M59 204L150 177" fill="none" stroke="#296c97" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="48" y="196" width="22" height="16" rx="2" fill="#edf2f4" stroke="#526d28" stroke-width="1.5"/>
+<circle cx="59" cy="204" r="3" fill="#526d28"/>
+<path d="M162 138L150 177" fill="none" stroke="#296c97" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="151" y="130" width="22" height="16" rx="2" fill="#edf2f4" stroke="#526d28" stroke-width="1.5"/>
+<circle cx="162" cy="138" r="3" fill="#526d28"/>
+<path d="M239 165L150 177" fill="none" stroke="#296c97" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="228" y="157" width="22" height="16" rx="2" fill="#edf2f4" stroke="#526d28" stroke-width="1.5"/>
+<circle cx="239" cy="165" r="3" fill="#526d28"/>
+<path d="M168 229l12-1l-4-11" fill="none" stroke="#526d28" stroke-opacity="1" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M23 270H277" stroke="#cfdee5"/>
+<text x="22" y="314" font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="500" fill="#162c3b">CoV</text>
+<path d="M255 310l18-18 M257 292h16v16" fill="none" stroke="#526d28" stroke-width="2"/>
+</svg>
